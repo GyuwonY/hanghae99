@@ -8,7 +8,7 @@ import requests
 import xmltodict, json
 
 app = Flask(__name__)
-client = MongoClient('mongodb+srv://test:ksd3480@cluster0.sk1w9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
+client = MongoClient('-')
 db = client.dbpjt
 
 SECRET_KEY = 'SPARTA'
@@ -41,7 +41,7 @@ def detail():
     comment_list = list(db.comment.find({'target': target}))
 
     url = 'http://apis.data.go.kr/9760000/ElecPrmsInfoInqireService/getCnddtElecPrmsInfoInqire'
-    params = {'serviceKey': 'TikFg2eahcB/ceBXx88hqH3IRDFb6GEd/uli4geQ0NssuNajoYP4qOkj0kFB6fpBBK/uYammLUwzg9STKIRqbw==',
+    params = {'serviceKey': '-',
               'pageNo': '1', 'numOfRows': '100', 'sgId': '20220309', 'sgTypecode': '1', 'cnddtId': id}
     response = requests.get(url, params=params)
 
