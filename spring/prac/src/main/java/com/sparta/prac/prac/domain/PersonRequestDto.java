@@ -8,8 +8,9 @@ import lombok.Setter;
 @Setter
 @RequiredArgsConstructor
 public class PersonRequestDto {
-    private final String address;
     private final String name;
     private final Long age;
+    private final String address;
     private final String job;
+
 }

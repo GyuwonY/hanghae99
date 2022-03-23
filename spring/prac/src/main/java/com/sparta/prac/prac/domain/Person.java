@@ -27,10 +27,17 @@ public class Person {
     private String job;
 
     public Person(PersonRequestDto requestDto){
-        this.address = requestDto.getAddress;
-        this.name = requestDto.getName;
-        this.age = requestDto.getAge;
-        this.job = requestDto.getJob;
+        this.address = requestDto.getAddress();
+        this.name = requestDto.getName();
+        this.age = requestDto.getAge();
+        this.job = requestDto.getJob();
+    }
+
+    public void update(PersonRequestDto requestDto){
+        this.address = requestDto.getAddress();
+        this.name = requestDto.getName();
+        this.age = requestDto.getAge();
+        this.job = requestDto.getJob();
     }
 
 }
