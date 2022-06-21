@@ -1,41 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efdb314f-e881-4378-aff2-5143f23a130e" name="Changes" comment="" />
+    <list default="true" id="58f2b57c-defd-4eef-b614-574142abe640" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/out/production/prac/algo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/prac.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac/src/algo9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/prac/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/prac/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/prac/src/main/java/com/sparta/prac/prac/PracApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/prac/src/main/java/com/sparta/prac/prac/PracApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/springproject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/week02/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/week02/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/week02/src/main/java/com/sparta/week02/domain/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/week02/src/main/java/com/sparta/week02/domain/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/.idea/toy_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/item_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/static/assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/static/css/index_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/static/img/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/static/img/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/static/img/gl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/static/img/tw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/static/js/index_scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toy_pjt/templates/login_resist_form.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="26RoIKfDyCHBBUDoLfwHBnOKo6f" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28IezbIDm2szi8xREWqbgh2Fh6p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\livia\OneDrive\바탕 화면\hanghae99\algorithm\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Hash3">
+    <configuration name="Hash2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash2" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hash3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash3" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hash3" />
+        <item itemvalue="Application.Hash2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Heap" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="efdb314f-e881-4378-aff2-5143f23a130e" name="Changes" comment="" />
-      <created>1647395678735</created>
+      <changelist id="58f2b57c-defd-4eef-b614-574142abe640" name="Changes" comment="" />
+      <created>1650908791749</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647395678735</updated>
-      <workItem from="1647395679953" duration="5719000" />
-      <workItem from="1647571156398" duration="9000" />
+      <updated>1650908791749</updated>
+      <workItem from="1650908793744" duration="1971000" />
+      <workItem from="1650947099784" duration="4693000" />
+      <workItem from="1650963824111" duration="1683000" />
+      <workItem from="1651028768555" duration="4904000" />
+      <workItem from="1651036252366" duration="1123000" />
+      <workItem from="1651114820747" duration="3225000" />
+      <workItem from="1651142599149" duration="3354000" />
+      <workItem from="1651328801043" duration="959000" />
+      <workItem from="1651466389253" duration="3013000" />
+      <workItem from="1651566401640" duration="2000" />
+      <workItem from="1651638727510" duration="5220000" />
+      <workItem from="1651725420796" duration="1532000" />
+      <workItem from="1652243752131" duration="3389000" />
+      <workItem from="1652330614257" duration="1834000" />
+      <workItem from="1652686968899" duration="1833000" />
+      <workItem from="1652753265161" duration="661000" />
+      <workItem from="1652764095010" duration="1176000" />
+      <workItem from="1652877934798" duration="132000" />
+      <workItem from="1653023388649" duration="1094000" />
+      <workItem from="1653044912123" duration="1074000" />
+      <workItem from="1655358976417" duration="2307000" />
+      <workItem from="1655374634718" duration="648000" />
+      <workItem from="1655786256569" duration="17655000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

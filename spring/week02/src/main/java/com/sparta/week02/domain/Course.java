@@ -20,6 +20,12 @@ public class Course extends Timestamped {
     @Column(nullable = false)
     private String tutor;
 
+    @Column
+    private double lastFluctuation;
+
+    @Column
+    private int rank = 0;
+
     public Course(CourseRequestDto requestDto){
         this.title = requestDto.getTitle();
         this.tutor = requestDto.getTutor();
